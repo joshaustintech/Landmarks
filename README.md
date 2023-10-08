@@ -1,2 +1,2 @@
 # Landmarks
-My result of walking through the Landmarks app tutorial
+My version of the Landmarks app from the [SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui/).
