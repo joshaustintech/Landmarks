@@ -23,7 +23,7 @@ struct LandmarkDetail: View {
                 .offset(y: -150)
                 .padding(.bottom, -150)
             
-            VStack(alignment: . leading) {
+            VStack(alignment: .leading) {
                 HStack {
                     Text(landmark.name)
                         .font(.title)
